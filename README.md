@@ -14,7 +14,7 @@ The dashboard was created for a fictional healthcare consulting company called *
 
 ---
 
-# 🎯 Business Objectives
+# Business Objectives
 
 The dashboard aims to answer the following business questions:
 
@@ -27,7 +27,7 @@ The dashboard aims to answer the following business questions:
 
 ---
 
-# 🗂 Dataset Information
+# Dataset Information
 
 The dataset contains **New York State Hospital Discharge Data** for patients who underwent **Elective Hip Replacement Surgery**.
 
@@ -62,7 +62,6 @@ The dataset does not contain personally identifiable patient information.
 - Longer LOS indicates increased resource utilization and hospital costs.
 - Some hospitals treat significantly more patients than others.
 - High discharge volume does not necessarily indicate lower LOS.
-- Enables benchmarking hospital performance.
 - Certain hospitals consistently report higher treatment costs.
 - Hospitals with longer LOS generally have higher treatment costs.
 - Conditional formatting quickly identifies high-cost facilities.
@@ -70,13 +69,6 @@ The dataset does not contain personally identifiable patient information.
 - Higher mortality risk increases average hospital expenses.
 - Larger surgical programs generally demonstrate better cost efficiency.
 - Patient disposition has a strong impact on total hospital costs.
-- Patients aged 50–69 account for the highest discharge volume.
-- Female patients underwent slightly more hip replacement surgeries.
-- Older patients tend to remain hospitalized longer.
-- Increased Length of Stay leads to higher treatment costs.
-- Hospital performance varies significantly across New York State.
-- Patient severity and mortality risk are major cost drivers.
-- Hospital efficiency differs considerably between facilities.
 
 ---
 
@@ -88,15 +80,11 @@ The dataset does not contain personally identifiable patient information.
 
 ✔ Monitor hospitals with above-average LOS.
 
-✔ Share best practices from high-performing hospitals.
-
 ✔ Improve resource allocation in hospitals with higher costs.
-
-✔ Continue tracking efficiency using Power BI dashboards.
 
 ---
 
-# 📚 Healthcare Terminology
+# Healthcare Terminology
 
 ### Length of Stay (LOS)
 
@@ -162,4 +150,3 @@ This dashboard enables healthcare administrators to:
 - Lower operational costs
 - Compare hospital performance
 - Improve patient throughput
-- Support evidence-based decision making
