@@ -51,7 +51,7 @@ The dataset does not contain personally identifiable patient information.
 
 ---
 
-# Dashboard Pages
+# Key Findings
 - Identifies regions with the highest concentration of hospitals.
 - Helps compare healthcare coverage across different service areas.
 - Female patients account for a slightly larger share of hip replacement surgeries.
@@ -70,11 +70,6 @@ The dataset does not contain personally identifiable patient information.
 - Higher mortality risk increases average hospital expenses.
 - Larger surgical programs generally demonstrate better cost efficiency.
 - Patient disposition has a strong impact on total hospital costs.
-
----
-
-# Key Findings
-
 - Patients aged 50–69 account for the highest discharge volume.
 - Female patients underwent slightly more hip replacement surgeries.
 - Older patients tend to remain hospitalized longer.
@@ -85,7 +80,7 @@ The dataset does not contain personally identifiable patient information.
 
 ---
 
-# 💡 Business Recommendations
+# Business Recommendations
 
 ✔ Improve discharge planning.
 
